@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 this is to test the git conflict
 this is to test the git conflict23
+=======
+this is the new branch for dev environment
+
+
+this is the new line 123
+>>>>>>> stag
